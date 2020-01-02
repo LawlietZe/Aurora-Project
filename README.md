@@ -24,6 +24,6 @@ KP=0时极光最弱，覆盖的范围最小
 
 ### 观测地点
 1. 挪威北部城市，特罗姆瑟
-
+2. [芬兰、瑞典、丹麦、挪威去哪儿看极光最好？根据今年的天气，什么时候去比较容易看到？](https://www.zhihu.com/question/20526153)
 ### 参考网站
 [aurora-service](http://www.aurora-service.net/)
