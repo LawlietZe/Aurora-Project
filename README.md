@@ -22,7 +22,8 @@ KP=0时极光最弱，覆盖的范围最小
 所以一些著名的极光之都，都在KP值3的范围内。
 
 
-
+### 观测地点
+1. 挪威北部城市，特罗姆瑟
 
 ### 参考网站
 [aurora-service](http://www.aurora-service.net/)
