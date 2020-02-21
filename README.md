@@ -12,7 +12,7 @@ Aurora Australis （southern lights）南极光
 3. 发生时间  
 极光最易出现的时期是春分和秋分两个节气来临之前，且春秋两季出现频率更甚夏冬。这是因为在春分和秋分两节气时地球位置与“磁索”交错最甚。另外，在太阳黑子多的时候或当太阳周期在日冕大量抛射增加和太阳风强度增强的阶段时，极光出现的频率和亮度也会增加。
 4.发生地点   
- 1. 北半球:阿拉斯加[Fairbanks], 冰岛[Jokulsarlon], 挪威[Lofoten], 加拿大[育空地区]
+ 1. 北半球:阿拉斯加[Fairbanks], 冰岛[Jokulsarlon], 挪威[Lofoten], 加拿大[育空地区]，俄罗斯[摩尔曼斯克]
  2. 南半球:新西兰[Stewart Island]，[新西兰攻略](https://www.weibo.com/ttarticle/p/show?id=2309404133040862406384&infeed=1) 
 
 5.强度划分  
